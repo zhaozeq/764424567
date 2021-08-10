@@ -24,7 +24,7 @@
 </p>
 
 # 汇总 ✨
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaozeq&count_private=true&show_icons=true&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaozeq&count_private=true&show_icons=true&theme=dark)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaozeq&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
