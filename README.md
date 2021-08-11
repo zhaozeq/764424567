@@ -3,6 +3,7 @@
 - :email: 邮箱：zhaozeq@foxmail.com
 - :link: 微信：zzq11041192
 - :blue_book: &nbsp;博客：[CSDN](https://blog.csdn.net/qq_36571602)
+- :mortar_board: 个人主页：[Git Pages](https://zhaozeqing.gitee.io)
 
 ### 技术栈
 <p>
